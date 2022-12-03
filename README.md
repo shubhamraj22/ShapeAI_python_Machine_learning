@@ -1,28 +1,27 @@
-SHAPEAI PYTHON AND MACHINE LEARNING BOOTCAMP
-Hi I made this project during the 7 Days Free Bootcamp, conducted by €b> SHAPEAI
-€/bs,
-The instructor during the session was Mr. Shaurya Sinha (Data Analyst Intern at Ji0). I got to
-learn a lot during these 7 days and it was an anazing experience learning with SMAPEAI.
-bradpHere's the link for you to watch the sessions as wellebra
-«a href»"https://www.youtube.con/playlist7List=PL7218TDRnbuINEA-5947wwgCNEBLE0D6h"><ingsrea"https://github.con/ShapeAI/PYTHON-AND-DATA-
-ANALYTICS/blob/main/YOUTUBE*20THUMBNAIL-5.png">«/a>
-br>I got to have hands on experience on:
-cliPython
-cli>Machine Learning
-elisTensorflow
-sbraduring these 7 days, and everything was explained from the very basics so that
-anyone with zero experience on programning can learn.
+https://github.com/ShauryaSinhaML/ShapeAI_Python_Machine_Learning#shapeai-python-and-machine-learning-bootcamp
+# SHAPEAI PYTHON AND MACHINE LEARNING BOOTCAMP
+Hi I made this project during the 7 Days Free Bootcamp, conducted by <b> SHAPEAI
+</b>.
+The instructor during the session was Mr. Shaurya Sinha (Data Analyst Intern at Jio). I got to
+learn a lot during these 7 days and it was an amazing experience learning with SHAPEAI.
+<br><br>Here's the link for you to watch the sessions as well<br>
+<a href="https://www.youtube.com/playlist?list=PL7zl8TDRnbulNEA-59W7wWgCWE8LEOD6h"> <img src="https://github.com/ShapeAI/PYTHON-AND-DATA-ANALYTICS/blob/main/YOUTUBE%20THUMBNAIL-5.png"> </a>
+<br>I got to have hands on experience on:
+<li>Python
+<li>Machine Learning
+<li>Tensorflow
+<br>during these 7 days, and everything was explained from the very basics so that
+anyone with zero experience on programming can learn.
 I enjoyed these 7 days, you can as well. To register for next free 7 days bootcamp, visit:
-ca hrefa"https://www.shapeat.tech">WiN.shantal.techs/a
+<a href="https://www.shapeai.tech"> www.shapeai.tech</a>
 or follow SHAPEAI on:
-elissa hrefa
-thitps://ih.linkedin.coa/Zompany/shapeal"s2.inkedinc/s
-étis<a hret=
-*https://ww.Instagram.com/shape.a1/7hl=en">Instagran«/a>
-élise
-hrefs
-*https://ww.youtube.com/channel/UCTUvDLTW9neuDXNcbnISPdA"-YOuTu
-
-be</as
-«lias hrefa
-*https://github. con/shapeai">GitHube/as
+<li><a href=
+"https://in.linkedin.com/company/shapeai">LinkedIn</a>
+<li><a href=
+"https://www.instagram.com/shape.ai/?hl=en">Instagram</a>
+<li><a
+href=
+"https://www.youtube.com/channel/UCTUvDLTW9meuDXWcbmISPdA">YouTu
+be</a>
+<li><a href=
+"https://github.com/shapeai">GitHub</a>
